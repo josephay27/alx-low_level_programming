@@ -3,7 +3,7 @@
 /**
 *main - Entry point
 *
-*Return:return 0
+*Return: 0
 */
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 
 	int i;
 
-	for (i = 0; i < 8; i++);
+	for (i = 0; i < 8; i++)
 	{
 		_putchar(school[i]);
 	}
